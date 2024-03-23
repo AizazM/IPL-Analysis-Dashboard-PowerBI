@@ -26,5 +26,5 @@ This dashboard is designed to provide cricket enthusiasts, analysts, and team ma
 
 ## Screenshots
 
-Include screenshots or GIFs of your dashboard here.
+https://github.com/AizazM/IPL-Analysis-Dashboard-PowerBI/blob/main/Final-Dashboard%20.png
 
